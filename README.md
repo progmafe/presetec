@@ -7,9 +7,13 @@ Pode-se ver que é um site simples e responsivo.
 Estou utilizando HTML, CSS e o auxilio de alguns frameworks como bootstrap, para facilitar na responsividade.
 
 Algumas das páginas que já desenvolvi (Lembrando que é a base do projeto): 
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print1.png"/>]
 
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print4.png"/>]
 
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print5.png"/>]
 
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print6.png"/>]
 
 
 Att, 
