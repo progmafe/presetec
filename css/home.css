@@ -32,4 +32,12 @@ body{
 
 
 @media screen and (min-width:360px) and (max-width: 640px) {
+
+    img.logo {
+        width: 350px;
+    }
+
+    .nav-link{
+        font-size: 18px;
+    }
 }

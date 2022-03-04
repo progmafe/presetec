@@ -33,4 +33,8 @@ body{
 
 
 @media screen and (min-width:360px) and (max-width: 640px) {
+
+    img {
+        width: 350px;
+    }
 }
