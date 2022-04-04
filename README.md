@@ -15,15 +15,19 @@ Algumas das páginas que já desenvolvi (Lembrando que é a base do projeto):
 
 [<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print6.png"/>]
 
-[<img src=" "/>]
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/print7.png"/>]
 
 Responsividade:
 
-[<img src=" "/>]
-[<img src=" "/>]
-[<img src=" "/>]
-[<img src=" "/>]
-[<img src=" "/>]
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/printmovel1.png"/>]
+
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/printmovel2.png"/>]
+
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/printmovel3.png "/>]
+
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/printmovel4.png"/>]
+
+[<img src="https://raw.githubusercontent.com/progmafe/presetec/master/printmovel5.png"/>]
 
 Att, 
 Mafe <3 
