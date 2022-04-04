@@ -18,6 +18,10 @@ body{
     font-size: 25px;
 }
 
+.col-md-4{
+   
+}
+
 h5.card-title {
     text-align: center;
 }
@@ -50,4 +54,27 @@ a.btn.btn-primary {
     img {
         width: 350px;
     }
+    
+    div#navbar-links{
+        display: block;
+        text-align: -webkit-center;
+    }
+    
+    i {
+        font-size: 15px;
+    }
+
+    h5.card-title {
+        font-size: 12px;
+    }
+
+    p.card-text {
+        font-size: 10px;
+    }
+
+    a.btn.btn-primary.text-center {
+        font-size: 12px;
+    }
 }
+
+

@@ -55,7 +55,20 @@ h1{
         width: 350px;
     }
 
-    .clientes img.logoimg {
-        width: 150px;
+    .clientes img.logoimg{
+        width: 64px;
+    }
+
+    .clientes img.logoimg:hover{
+        width: 64px;
+    }
+
+    div#navbar-links{
+        display: block;
+        text-align: -webkit-center;
+    }
+    
+    i{
+        font-size: 15px;
     }
 }

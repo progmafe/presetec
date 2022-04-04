@@ -29,6 +29,11 @@ section.contatos{
     padding: 100px;
 }
 
+a {
+    text-decoration: none !important;
+    color: black !important;
+}
+
 .footer{
     background-color: darkgray;
     color: black;
@@ -51,6 +56,18 @@ section.contatos{
 
     h1 {
         font-size: 28px;
-        text-align: right;
+    }
+    
+    div#navbar-links{
+        display: block;
+        text-align: -webkit-center;
+    }
+    
+    i {
+        font-size: 15px;
+    }
+
+    a {
+        margin-left: -27px;
     }
 }
